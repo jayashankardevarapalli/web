@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Titan+One&display=swap");
+.Headcss {
+  background-color: #1c1833;
+  font-family: "Titan One", cursive;
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  font-size: 45px;
+  width: auto;
+  height: 120px;
+}

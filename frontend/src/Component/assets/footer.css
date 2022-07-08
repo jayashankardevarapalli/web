@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Raleway:ital,wght@0,500;1,300;1,700&family=Titan+One&display=swap");
+
+.conme {
+  padding-left: 1cm;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  font-family: "Allerta Stencil", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Titan One", cursive;
+  font-size: 23px;
+}
+
+.innerobj {
+  padding-bottom: 10cm;
+  padding-left: 10cm;
+  font-size: 50px;
+}
+
+.dis {
+  margin: 0.5cm;
+}
+
+.gmail {
+  padding-bottom: 1cm;
+  padding-left: 10.5cm;
+  font-size: 22px;
+}
+
+.gsize {
+  font-size: 30px;
+}

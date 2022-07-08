@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Raleway:ital,wght@0,500;1,300;1,700&family=Titan+One&display=swap");
+
+.expertise {
+  padding-left: 1cm;
+  padding-top: 1cm;
+  padding-bottom: 0.4cm;
+  font-family: "Allerta Stencil", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Titan One", cursive;
+  font-size: 26px;
+}
+
+.devicon-devicon-plain {
+  max-width: 4em;
+  margin: 30px;
+}
+
+.devicon-devicon-plain path {
+  fill: #4691f6;
+}
+
+.con {
+  padding-left: 3cm;
+}
+
+.dic {
+  padding-left: 1cm;
+  font-size: 12px;
+}

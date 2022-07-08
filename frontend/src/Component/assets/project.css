@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Raleway:ital,wght@0,500;1,300;1,700&family=Titan+One&display=swap");
+
+.projects {
+  padding-left: 1cm;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  font-family: "Allerta Stencil", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Titan One", cursive;
+  font-size: 23px;
+}
+
+.pro {
+  padding-left: 6cm;
+}
